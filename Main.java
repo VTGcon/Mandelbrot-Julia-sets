@@ -1,6 +1,3 @@
-//Shabes Vyacheslav,9a class
-//Sets
-//02.03.2018 11:27
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

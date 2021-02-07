@@ -1,6 +1,3 @@
-//Shabes Vyacheslav,9a class
-//Sets
-//02.03.2018 11:27
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
